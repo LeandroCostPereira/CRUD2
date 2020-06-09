@@ -1,0 +1,15 @@
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.vbprojAssemblyReference.cache
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.Form1.resources
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.Resources.resources
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.vbproj.GenerateResource.cache
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.vbproj.CoreCompileInputs.cache
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\Dbusers1.mdf
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\Dbusers1_log.ldf
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\WindowsAppCRUD.exe.config
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\WindowsAppCRUD.exe
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\WindowsAppCRUD.pdb
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\WindowsAppCRUD.xml
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.Form2.resources
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.exe
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.xml
+C:\Users\leandro\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.pdb
